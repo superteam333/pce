@@ -1,0 +1,7 @@
+rm -rf .git
+git init
+git add .
+git commit -m 'master' 
+heroku create
+heroku rename mhaake
+git push heroku master
