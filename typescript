@@ -1,9 +1,0 @@
-Script started on Tue Mar 26 11:35:17 2013
-[?1034hbash-3.2$ ls
-Procfile		requirements.txt	venv
-hellodjango		script
-manage.py		typescript
-bash-3.2$ exit
-exit
-
-Script done on Tue Mar 26 11:35:28 2013
